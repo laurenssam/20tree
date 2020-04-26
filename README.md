@@ -1,2 +1,2 @@
-# 20tree
+# 20tree assignment
 Cloud segmentation from satellite images
